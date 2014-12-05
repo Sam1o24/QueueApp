@@ -1,0 +1,11 @@
+C:\Documents and Settings\Yavoruk\Мои документы\Visual Studio 2008\Projects\TestTask\bin\Debug\TestTask.exe
+C:\Documents and Settings\Yavoruk\Мои документы\Visual Studio 2008\Projects\TestTask\bin\Debug\TestTask.pdb
+C:\Documents and Settings\Yavoruk\Мои документы\Visual Studio 2008\Projects\TestTask\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Yavoruk\Мои документы\Visual Studio 2008\Projects\TestTask\obj\Debug\TestTask.exe
+C:\Documents and Settings\Yavoruk\Мои документы\Visual Studio 2008\Projects\TestTask\obj\Debug\TestTask.pdb
+C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\obj\Debug\TestTask.exe
+C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\obj\Debug\TestTask.pdb
+C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\bin\Debug\TestTask.exe
+C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\bin\Debug\TestTask.pdb
+C:\Users\SAM\Desktop\QueueApp\obj\Debug\TestTask.exe
+C:\Users\SAM\Desktop\QueueApp\obj\Debug\TestTask.pdb

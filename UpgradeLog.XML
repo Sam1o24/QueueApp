@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QueueApp">
+</Property><Property Name="Solution File" Value="C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\QueueApp.sln">
+</Property><Property Name="User Options File" Value="C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\QueueApp.suo">
+</Property><Property Name="Date" Value="2 декабря 2014 г.">
+</Property><Property Name="Time" Value="21:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="QueueApp.sln" Description="File successfully backed up as C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\Backup\QueueApp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="QueueApp.suo" Description="File successfully backed up as C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\Backup\QueueApp.suo">
+</Event><Event ErrorLevel="0" Project="QueueApp" Source="QueueApp.csproj" Description="Project file successfully backed up as C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\Backup\QueueApp.csproj">
+</Event><Event ErrorLevel="0" Project="QueueApp" Source="QueueApp.csproj.user" Description="Project user file successfully backed up as C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\Backup\QueueApp.csproj.user">
+</Event><Event ErrorLevel="0" Project="QueueApp" Source="Program.cs" Description="File successfully backed up as C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="QueueApp" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="QueueApp" Source="Cas.cs" Description="File successfully backed up as C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\Backup\Cas.cs">
+</Event><Event ErrorLevel="0" Project="QueueApp" Source="System.cs" Description="File successfully backed up as C:\Users\SAM\Dropbox\Учеба_Магистратура\3 семестр\Качество ПО\QueueApp\Backup\System.cs">
+</Event><Event ErrorLevel="0" Project="QueueApp" Source="QueueApp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QueueApp" Source="QueueApp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QueueApp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="QueueApp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QueueApp" Source="QueueApp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
